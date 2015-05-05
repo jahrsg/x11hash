@@ -1,5 +1,5 @@
 # x11hash
-Cross-compiler x11 hash lib (gcc and msvc compatible). Sources are getted from http://www.saphir2.com/sphlib/
+Cross-compiler x11 hash lib (gcc and msvc compatible). Sources are from http://www.saphir2.com/sphlib/
 MIT-like license (from original project). 
 
 Resulting hash values are compatible with x11 cpu miners (https://github.com/ig0tik3d/darkcoin-cpuminer-1.2c). 
